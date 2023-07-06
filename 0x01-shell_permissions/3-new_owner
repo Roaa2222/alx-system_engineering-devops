@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrop betty hello
+chgrop hello betty
